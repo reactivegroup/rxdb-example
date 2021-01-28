@@ -1,3 +1,5 @@
+use rxdb;
+
 CREATE TABLE IF NOT EXISTS `mysql_table_entity`(
    `id` INT UNSIGNED AUTO_INCREMENT,
    `name` VARCHAR(255) NOT NULL,
