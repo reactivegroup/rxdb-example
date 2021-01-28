@@ -1,3 +1,11 @@
+POST http://localhost:8080/entity
+Content-Type: application/json
+
+{
+  "name": "post"
+}
+
+###
 GET http://localhost:8080/entity
 
 ###
